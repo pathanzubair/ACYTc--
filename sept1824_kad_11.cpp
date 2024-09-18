@@ -1,4 +1,5 @@
 #include <iostream>
+#import <vector>
 using namespace std;
 int main(){
     cout << "********* KADANE's ALGORITHM **********" << endl;
