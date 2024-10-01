@@ -30,6 +30,7 @@ int main(){
     int target;
     cout << "Enter the target element: " << endl;
     cin >> target;
+    cout << endl;
 
     cout << "Target element = " << binarySearch(arr1, target);
 
